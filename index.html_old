@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Proyecto canvas</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <main class="main-container">
+    <canvas id="dibujo" width="350" height="200">
+
+    </canvas>
+  </main>
+  <script src="assets/index.js"></script>
+  <h1>curso html</h1>
+</body>
+</html>s
